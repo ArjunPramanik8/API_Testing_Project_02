@@ -9,6 +9,7 @@
 
 	[
 		{
+			
 			"name": "Add Place API",
 			"request": {
 				"method": "POST",
